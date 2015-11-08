@@ -1,0 +1,23 @@
+{
+  "name": "@jjkiesch/howtonpm",
+  "version": "1.0.0",
+  "description": "Some tutorial thing about NPM",
+  "main": "index.js",
+  "author": "Joshua Kieschnick",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jjkiesch/howtonpm.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjkiesch/howtonpm/issues"
+  },
+  "homepage": "https://github.com/jjkiesch/howtonpm#readme"
+}
